@@ -11,5 +11,10 @@
 9. 普逻码可读可写，比世界上许多拉丁化文字更简单先进。
 10. 各种输入法软件，可通过添加自定义短语方式加入普逻码，实现无重码输入。
 
+20190518更新：取消常用3500字的特定三码。
+
+
 shiHP shangH wuH nanZ shiH, zhiO paX youL xinX renV。
-iiw ihh wuh nlz iih, uio pax yfl xxx rgv.
+iihp ihh wuh nlz iih, uio pax yfl xxx rgv.
+
+

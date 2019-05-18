@@ -15,7 +15,7 @@ Original code description:
   推出日期 ：2003-7-30
   修改日期 ：2003-8-23
 ------------------------------------------------------------------
-
+webime程序改自https://github.com/dsun29/webpinyin
 */
 
 imeData=imeData.split('	');
